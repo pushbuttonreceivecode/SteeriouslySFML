@@ -7,4 +7,4 @@
 It is provided for illustrative purposes only, no care was taken to get the
 most performance, there may be bugs, but it should be enough to get you started.
 
-More information, tutorials, and demos along with API documentation are available at [project homepage](http://pushbuttonreceivecode.com).
+More information, tutorials, and demos along with API documentation are available at [pushbuttonreceivecode.com](http://pushbuttonreceivecode.com).
